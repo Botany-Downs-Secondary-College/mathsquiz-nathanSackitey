@@ -1,0 +1,10 @@
+from tkinter import*
+
+root = Tk()
+root.title("Screen1")
+root.geometry("400x300+850+0")
+
+
+
+
+root.mainloop()
